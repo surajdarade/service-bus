@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.NotificationService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB30E05A-5A1C-49B5-82E3-68E3FCB0BEAC}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.notificationservice\\assignmate.notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB30E05A-5A1C-49B5-82E3-68E3FCB0BEAC}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|solutionrelative:assignmate.notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84329C1C-1142-B10D-4B8F-02E2ED076268}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.notificationservice\\assignmate.notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84329C1C-1142-B10D-4B8F-02E2ED076268}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|solutionrelative:assignmate.notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB30E05A-5A1C-49B5-82E3-68E3FCB0BEAC}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.notificationservice\\assignmate.notificationservice\\notificationmessageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB30E05A-5A1C-49B5-82E3-68E3FCB0BEAC}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|solutionrelative:assignmate.notificationservice\\notificationmessageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84329C1C-1142-B10D-4B8F-02E2ED076268}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.notificationservice\\assignmate.notificationservice\\notificationmessageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84329C1C-1142-B10D-4B8F-02E2ED076268}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|solutionrelative:assignmate.notificationservice\\notificationmessageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB30E05A-5A1C-49B5-82E3-68E3FCB0BEAC}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.notificationservice\\assignmate.notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB30E05A-5A1C-49B5-82E3-68E3FCB0BEAC}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|solutionrelative:assignmate.notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{84329C1C-1142-B10D-4B8F-02E2ED076268}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.notificationservice\\assignmate.notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84329C1C-1142-B10D-4B8F-02E2ED076268}|Assignmate.NotificationService\\Assignmate.NotificationService.csproj|solutionrelative:assignmate.notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Assignmate.NotificationService\\NotificationMessageProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:47:00.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T12:47:00.446Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Assignmate.NotificationService\\Program.cs",
               "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.NotificationService\\Assignmate.NotificationService\\Program.cs",
               "RelativeToolTip": "Assignmate.NotificationService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T12:46:32.566Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Assignmate.NotificationService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-03T12:46:09.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T12:46:09.505Z"
             }
           ]
         }

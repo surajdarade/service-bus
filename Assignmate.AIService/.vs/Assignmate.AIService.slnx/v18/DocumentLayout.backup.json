@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AIService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76929E8A-FC66-438A-84EB-5AD84EC648AA}|Assignmate.AIService\\Assignmate.AIService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.aiservice\\assignmate.aiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76929E8A-FC66-438A-84EB-5AD84EC648AA}|Assignmate.AIService\\Assignmate.AIService.csproj|solutionrelative:assignmate.aiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76929E8A-FC66-438A-84EB-5AD84EC648AA}|Assignmate.AIService\\Assignmate.AIService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.aiservice\\assignmate.aiservice\\assignmentcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76929E8A-FC66-438A-84EB-5AD84EC648AA}|Assignmate.AIService\\Assignmate.AIService.csproj|solutionrelative:assignmate.aiservice\\assignmentcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76929E8A-FC66-438A-84EB-5AD84EC648AA}|Assignmate.AIService\\Assignmate.AIService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.aiservice\\assignmate.aiservice\\aimessageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76929E8A-FC66-438A-84EB-5AD84EC648AA}|Assignmate.AIService\\Assignmate.AIService.csproj|solutionrelative:assignmate.aiservice\\aimessageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76929E8A-FC66-438A-84EB-5AD84EC648AA}|Assignmate.AIService\\Assignmate.AIService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.aiservice\\assignmate.aiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76929E8A-FC66-438A-84EB-5AD84EC648AA}|Assignmate.AIService\\Assignmate.AIService.csproj|solutionrelative:assignmate.aiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignmentCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AIService\\Assignmate.AIService\\AssignmentCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Assignmate.AIService\\AssignmentCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AIService\\Assignmate.AIService\\AssignmentCreatedEvent.cs",
+              "RelativeToolTip": "Assignmate.AIService\\AssignmentCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:52:40.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AIMessageProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AIService\\Assignmate.AIService\\AIMessageProcessor.cs",
+              "RelativeDocumentMoniker": "Assignmate.AIService\\AIMessageProcessor.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AIService\\Assignmate.AIService\\AIMessageProcessor.cs",
+              "RelativeToolTip": "Assignmate.AIService\\AIMessageProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:51:24.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AIService\\Assignmate.AIService\\Program.cs",
+              "RelativeDocumentMoniker": "Assignmate.AIService\\Program.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AIService\\Assignmate.AIService\\Program.cs",
+              "RelativeToolTip": "Assignmate.AIService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:51:02.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AIService\\Assignmate.AIService\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignmate.AIService\\appsettings.json",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AIService\\Assignmate.AIService\\appsettings.json",
+              "RelativeToolTip": "Assignmate.AIService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T12:50:42.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
