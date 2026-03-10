@@ -1,3 +1,4 @@
+using Assignmate.AssignmentService;
 using Azure.Messaging.ServiceBus;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,6 +20,8 @@ builder.Services.AddSingleton(sp =>
     var topicName = config["ServiceBus:TopicName"];
     return client.CreateSender(topicName);
 });
+
+builder.Services.AddSingleton<EventGridPublisher>();
 
 // 2️⃣ THEN build
 var app = builder.Build();

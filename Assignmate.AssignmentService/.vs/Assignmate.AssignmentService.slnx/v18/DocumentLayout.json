@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AssignmentService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.assignmentservice\\assignmate.assignmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|solutionrelative:assignmate.assignmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.assignmentservice\\assignmate.assignmentservice\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|solutionrelative:assignmate.assignmentservice\\controllers\\assignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.assignmentservice\\assignmate.assignmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|solutionrelative:assignmate.assignmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.assignmentservice\\assignmate.assignmentservice\\eventgridpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|solutionrelative:assignmate.assignmentservice\\eventgridpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.assignmentservice\\assignmate.assignmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|solutionrelative:assignmate.assignmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.assignmentservice\\assignmate.assignmentservice\\contracts\\events\\assignmentcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.assignmentservice\\assignmate.assignmentservice\\assignmate.assignmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|solutionrelative:assignmate.assignmentservice\\assignmate.assignmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|c:\\users\\surajnarayandarade\\documents\\service-bus\\assignmate.assignmentservice\\assignmate.assignmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FA8DD73-8016-3E17-17BF-612AB31BC64D}|Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj|solutionrelative:assignmate.assignmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,23 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "EventGridPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AssignmentService\\Assignmate.AssignmentService\\EventGridPublisher.cs",
+              "RelativeDocumentMoniker": "Assignmate.AssignmentService\\EventGridPublisher.cs",
+              "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AssignmentService\\Assignmate.AssignmentService\\EventGridPublisher.cs",
+              "RelativeToolTip": "Assignmate.AssignmentService\\EventGridPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T07:07:03.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AssignmentsController.cs",
               "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AssignmentService\\Assignmate.AssignmentService\\Controllers\\AssignmentsController.cs",
               "RelativeDocumentMoniker": "Assignmate.AssignmentService\\Controllers\\AssignmentsController.cs",
               "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AssignmentService\\Assignmate.AssignmentService\\Controllers\\AssignmentsController.cs",
               "RelativeToolTip": "Assignmate.AssignmentService\\Controllers\\AssignmentsController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAjwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:12:10.623Z"
+              "WhenOpened": "2026-03-03T11:12:10.623Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AssignmentCreatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AssignmentService\\Assignmate.AssignmentService\\Contracts\\Events\\AssignmentCreatedEvent.cs",
               "RelativeDocumentMoniker": "Assignmate.AssignmentService\\Contracts\\Events\\AssignmentCreatedEvent.cs",
@@ -54,11 +72,12 @@
               "RelativeToolTip": "Assignmate.AssignmentService\\Contracts\\Events\\AssignmentCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:06:36.776Z"
+              "WhenOpened": "2026-03-03T11:06:36.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Assignmate.AssignmentService.csproj",
               "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AssignmentService\\Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj",
               "RelativeDocumentMoniker": "Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj",
@@ -66,29 +85,31 @@
               "RelativeToolTip": "Assignmate.AssignmentService\\Assignmate.AssignmentService.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-03T11:06:02.2Z"
+              "WhenOpened": "2026-03-03T11:06:02.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AssignmentService\\Assignmate.AssignmentService\\Program.cs",
               "RelativeDocumentMoniker": "Assignmate.AssignmentService\\Program.cs",
               "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AssignmentService\\Assignmate.AssignmentService\\Program.cs",
               "RelativeToolTip": "Assignmate.AssignmentService\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:05:01.837Z"
+              "WhenOpened": "2026-03-03T11:05:01.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AssignmentService\\Assignmate.AssignmentService\\appsettings.json",
               "RelativeDocumentMoniker": "Assignmate.AssignmentService\\appsettings.json",
               "ToolTip": "C:\\Users\\SurajNarayanDarade\\Documents\\service-bus\\Assignmate.AssignmentService\\Assignmate.AssignmentService\\appsettings.json",
               "RelativeToolTip": "Assignmate.AssignmentService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-03T11:03:42.141Z",
               "EditorCaption": ""

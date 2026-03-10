@@ -10,6 +10,7 @@ namespace Assignmate.AssignmentService.Controllers
     public class AssignmentsController : ControllerBase
     {
         private readonly ServiceBusSender _sender;
+        private readonly EventGridPublisher _eventGridPublisher;
 
         public AssignmentsController(ServiceBusSender sender)
         {
@@ -19,10 +20,12 @@ namespace Assignmate.AssignmentService.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateAssignment()
         {
+            var assignmentId = Guid.NewGuid().ToString();
+
             var evt = new AssignmentCreatedEvent(
                 EventId: Guid.NewGuid().ToString(),
                 OccurredOn: DateTime.UtcNow,
-                AssignmentId: Guid.NewGuid().ToString(),
+                AssignmentId: assignmentId,
                 UserId: "U456",
                 Type: "Digital",
                 Price: 500,
@@ -40,7 +43,11 @@ namespace Assignmate.AssignmentService.Controllers
             message.ApplicationProperties["eventType"] = "AssignmentCreated";
             message.ApplicationProperties["assignmentType"] = evt.Type;
 
-            await _sender.SendMessageAsync(message);
+            var sendMessageTask = _sender.SendMessageAsync(message);
+
+            var publishEventTask = _eventGridPublisher.PublishAssignmentCreated(assignmentId);
+
+            await Task.WhenAll(sendMessageTask, publishEventTask);
 
             return Ok("AssignmentCreated event published.");
         }
